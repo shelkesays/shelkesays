@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Rust, Core Computation Concepts, and Computer Systems from programmers perspective**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/srahul07?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shelkesays?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@srahul07)
+- 📝 I regularly write articles on [Medium](https://medium.com/@shelkesays)
 
 - 👯 I’m looking to collaborate on Cyber Security Products (Especially open source) 
 
