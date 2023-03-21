@@ -62,8 +62,8 @@
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srahul07&show_icons=true&locale=en&layout=compact" alt="srahul07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelkesays&show_icons=true&locale=en&layout=compact" alt="shelkesays" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srahul07&show_icons=true&locale=en" alt="srahul07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelkesays&show_icons=true&locale=en" alt="shelkesays" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srahul07&" alt="srahul07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays&" alt="shelkesays" /></p>
