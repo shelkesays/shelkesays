@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Shelke</h1>
 <h3 align="center">Consultant | Architect | Developer | Trainer | Mentor | Angel Investor | Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srahul07&label=Profile%20views&color=0e75b6&style=flat" alt="srahul07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srahul07&label=Profile%20views&color=0e75b6&style=flat" alt="shelkesays" /> </p>
 
-<p align="left"> <a href="https://twitter.com/srahul07" target="blank"><img src="https://img.shields.io/twitter/follow/srahul07?logo=twitter&style=for-the-badge" alt="srahul07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> </p>
 
 - 🔭 I’m currently working on Python Base Framework for developing connectors for Cyber Security solutions
 
@@ -31,7 +31,7 @@
 <a href="https://instagram.com/srahul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srahul07" height="30" width="40" /></a>
 <a href="https://medium.com/@shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sshelkesays" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srahul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srahul07" height="30" width="40" /></a>
-<a href="https://medium.com/feed/@srahul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@srahul07" height="30" width="40" /></a>
+<a href="https://medium.com/feed/@shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@shelkesays" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
