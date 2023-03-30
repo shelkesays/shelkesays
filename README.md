@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Shelke</h1>
 <h3 align="center">Consultant | Architect | Developer | Trainer | Mentor | Angel Investor | Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srahul07&label=Profile%20views&color=0e75b6&style=flat" alt="shelkesays" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelkesays&label=Profile%20views&color=0e75b6&style=flat" alt="shelkesays" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> </p>
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python, System Architecture & Design, AWS, and Automations**
 
-- 📫 How to reach me **srahul07@gmail.com**
+- 📫 How to reach me **shelkesays@gmail.com**
 
 - 📄 Know about my experiences from [LinkedIn](https://www.linkedin.com/in/shelkerahul/)
 
