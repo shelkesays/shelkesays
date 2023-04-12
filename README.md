@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Shelke</h1>
 <h3 align="center">Consultant | Architect | Developer | Trainer | Mentor | Angel Investor | Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelkesays&label=Profile%20views&color=0e75b6&style=flat" alt="shelkesays" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> </p>
+<p align="center">
+<a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> 
+<a href="https://peerlist.io/rahulshelke" target="blank"><img src="https://github-readme-badge.peerlist.io/api/rahulshelke?style=for-the-badge" alt="shelkesays" /></a> 
+</p>
 
 - 🔭 I’m currently working on Python Base Framework for developing connectors for Cyber Security solutions
 
@@ -53,7 +54,7 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://pytest.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
