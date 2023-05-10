@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python based Framework for developing connectors for Cyber Security solutions**
 
-- 🌱 I’m currently learning **Rust, Core Computation Concepts, and Computer Systems from programmers perspective**
+- 🌱 I’m currently learning **Rust, Energy Efficient Programming, and Computer Systems from programmers perspective**
 
 - 👯 I’m looking to collaborate on **Cyber Security Products (Especially open source)**
 
