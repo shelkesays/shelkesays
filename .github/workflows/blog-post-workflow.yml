@@ -19,4 +19,4 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 5
           feed_list: "https://medium.com/feed/@shelkesays"
-          template: "$randomEmoji(💯,🔥,💫,🚀,🌮) <a href=$url>$title</a> $newline"
+          template: "$newline $randomEmoji(💯,🔥,💫,🚀,🌮) <a href=$url>$title</a>"
