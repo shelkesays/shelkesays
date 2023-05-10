@@ -30,6 +30,25 @@
 
 ### Latest Blogs
 <!-- MEDIUM:START -->
+ #### - 🌮 [A 10-Year-Old’s Guide to Drive by Download Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2) 
+ <details>  </details> 
+ <hr /> 
+
+ #### - 🔥 [A 10-Year-Old’s Guide to Man-in-the-Middle Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2) 
+ <details>  </details> 
+ <hr /> 
+
+ #### - 🌮 [A 10-Year-Old’s Guide to DDoS](https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2) 
+ <details>  </details> 
+ <hr /> 
+
+ #### - 🔥 [A 10-Year-Old’s Guide to SIM Swapping](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sim-swapping-170a5e205573?source=rss-ba6e00c00a60------2) 
+ <details>  </details> 
+ <hr /> 
+
+ #### - 🚀 [A 10-Year-Old’s Guide to Process Hollowing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-process-hollowing-2460e9dd864e?source=rss-ba6e00c00a60------2) 
+ <details>  </details> 
+ <hr /> 
 <!-- MEDIUM:END -->
 
 <h3 align="left">Connect with me:</h3>
