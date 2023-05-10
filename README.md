@@ -29,12 +29,12 @@
 - ⚡ Fun fact **I'm 100% caffeine-fueled**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --><tr><td>🌮</td><td><a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Drive by Download Attack</a>
-</td></tr><tr><td>🔥</td><td><a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Man-in-the-Middle Attack</a>
-</td></tr><tr><td>🌮</td><td><a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to DDoS</a>
-</td></tr><tr><td>🔥</td><td><a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-sim-swapping-170a5e205573?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to SIM Swapping</a>
-</td></tr><tr><td>🚀</td><td><a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-process-hollowing-2460e9dd864e?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Process Hollowing</a>
-</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->🌮 <a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Drive by Download Attack</a> 
+🔥 <a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Man-in-the-Middle Attack</a> 
+🌮 <a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to DDoS</a> 
+🔥 <a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-sim-swapping-170a5e205573?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to SIM Swapping</a> 
+🚀 <a href=https://medium.com/@shelkesays/a-10-year-olds-guide-to-process-hollowing-2460e9dd864e?source=rss-ba6e00c00a60------2>A 10-Year-Old’s Guide to Process Hollowing</a> 
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
