@@ -31,23 +31,23 @@
 ### Latest Blogs
 <!-- MEDIUM:START -->
  #### - 🌮 [A 10-Year-Old’s Guide to Brute Force Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-brute-force-attack-47576386048c?source=rss-ba6e00c00a60------2) 
- <details>  </details> 
+ brute-force-attack, kids-and-tech, cyber-security-awareness, cybersecurity, online-safety 
  <hr /> 
 
  #### - 🔥 [A 10-Year-Old’s Guide to Drive by Download Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2) 
- <details>  </details> 
+ drive-by-download, cybersecurity, kids-and-tech, online-safety, cyber-security-awareness 
  <hr /> 
 
  #### - 🌮 [A 10-Year-Old’s Guide to Man-in-the-Middle Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2) 
- <details>  </details> 
+ cybersecurity, online-safety, cyber-security-awareness, kids-and-tech, man-in-the-middle-attack 
  <hr /> 
 
  #### - 🔥 [A 10-Year-Old’s Guide to DDoS](https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2) 
- <details>  </details> 
+ online-safety, cybersecurity, kids-and-tech, ddos, cyber-security-awareness 
  <hr /> 
 
  #### - 🚀 [A 10-Year-Old’s Guide to SIM Swapping](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sim-swapping-170a5e205573?source=rss-ba6e00c00a60------2) 
- <details>  </details> 
+ online-safety, cybersecurity, sim-swapping, kids-and-tech, cyber-security-awareness 
  <hr /> 
 <!-- MEDIUM:END -->
 
