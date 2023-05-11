@@ -6,7 +6,10 @@
 <a href="https://peerlist.io/rahulshelke" target="blank"><img src="https://github-readme-badge.peerlist.io/api/rahulshelke?style=for-the-badge" alt="shelkesays" /></a> 
 </p>
 
+<details>
+ <summary>Warning: Click at your own risk. But trust me, it's not that scary.</summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelkesays" alt="shelkesays" /></a> </p>
+</details>
 
 - 🔭 I’m currently working on **Python based Framework for developing connectors for Cyber Security solutions**
 
@@ -28,29 +31,6 @@
 
 - ⚡ Fun fact **I'm 100% caffeine-fueled**
 
-### 📝 Latest Blogs
-<!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Brute Force Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-brute-force-attack-47576386048c?source=rss-ba6e00c00a60------2) </summary> 
- `brute-force-attack, kids-and-tech, cyber-security-awareness, cybersecurity, online-safety` </details> 
- <hr /> 
-
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Drive by Download Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2) </summary> 
- `drive-by-download, cybersecurity, kids-and-tech, online-safety, cyber-security-awareness` </details> 
- <hr /> 
-
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Man-in-the-Middle Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2) </summary> 
- `cybersecurity, online-safety, cyber-security-awareness, kids-and-tech, man-in-the-middle-attack` </details> 
- <hr /> 
-
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to DDoS](https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2) </summary> 
- `online-safety, cybersecurity, kids-and-tech, ddos, cyber-security-awareness` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to SIM Swapping](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sim-swapping-170a5e205573?source=rss-ba6e00c00a60------2) </summary> 
- `online-safety, cybersecurity, sim-swapping, kids-and-tech, cyber-security-awareness` </details> 
- <hr /> 
-<!-- MEDIUM:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelkesays" height="30" width="40" /></a>
@@ -60,11 +40,13 @@
 <a href="https://instagram.com/shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shelkesays" height="30" width="40" /></a>
 <a href="https://medium.com/@shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shelkesays" height="30" width="40" /></a>
 <a href="https://dev.to/shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shelkesays" height="30" width="40" /></a>
+ <!--
 <a href="https://www.codechef.com/users/srahul07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srahul07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shelkesays" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srahul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srahul07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shelkesays" height="30" width="40" /></a>
 <a href="https://medium.com/feed/@shelkesays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@shelkesays" height="30" width="40" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -81,6 +63,7 @@
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
+ <!--
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -113,8 +96,17 @@
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
  <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
+-->
 </p>
-<br><br>
+<br>
+
+### 📝 Latest Blogs
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+### 🧮 My Github Stats
+<details>
+ <summary> Click here for the ultimate procrastination tool. Your boss will thank you. </summary>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelkesays&show_icons=true&locale=en&layout=compact" alt="shelkesays" /></p>
 
@@ -122,7 +114,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays&" alt="shelkesays" /></p>
 </p>
-
+ </details>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/shelkesays"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shelkesays" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shelkesays&label=Profile%20views&color=0e75b6&style=flat" alt="shelkesays" /> </p>
