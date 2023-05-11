@@ -11,25 +11,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelkesays" alt="shelkesays" /></a> </p>
 </details>
 
-- 🔭 I’m currently working on **Python based Framework for developing connectors for Cyber Security solutions**
+👨‍💻 I'm a Cyber Security enthusiast, currently developing a Python-based framework for connectors. I'm always learning and exploring new technologies, including Rust, energy-efficient programming, and computer systems from a programmer's perspective.
 
-- 🌱 I’m currently learning **Rust, Energy Efficient Programming, and Computer Systems from programmers perspective**
+🤝 I'm looking to collaborate on open source Cyber Security products and would appreciate help in understanding how Rust can be used in this space.
 
-- 👯 I’m looking to collaborate on **Cyber Security Products (Especially open source)**
+💬 You can ask me about Python, System Architecture & Design, AWS, and Automations. My projects are available on [Github](https://github.com/shelkesays?tab=repositories) and I regularly write articles on [Medium](https://medium.com/@shelkesays).
 
-- 🤝 I’m looking for help with **understanding Rust and how can it be used in cyber security space**
+📫 You can reach me at shelkesays@gmail.com and learn about my experiences on [LinkedIn](https://www.linkedin.com/in/shelkerahul/).
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/shelkesays?tab=repositories)
+⚡ Fun fact: I'm 100% caffeine-fueled, powering my passion for innovation and pushing boundaries in the world of Cyber Security.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@shelkesays)
-
-- 💬 Ask me about **Python, System Architecture & Design, AWS, and Automations**
-
-- 📫 How to reach me **shelkesays@gmail.com**
-
-- 📄 Know about my experiences from [LinkedIn](https://www.linkedin.com/in/shelkerahul/)
-
-- ⚡ Fun fact **I'm 100% caffeine-fueled**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
