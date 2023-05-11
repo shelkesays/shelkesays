@@ -19,4 +19,4 @@ jobs:
           comment_tag_name: "MEDIUM"
           max_post_count: 5
           feed_list: "https://medium.com/feed/@shelkesays"
-          template: "$newline #### $randomEmoji(🔒,🛡️,🚪,🔥,🔐) [$title]($url) $newline <details> <summary>`$categories` </summary> </details> $newline <hr /> $newline"
+          template: "$newline #### <details> <summary> $randomEmoji(🔒,🛡️,🚪,🔥,🔐) [$title]($url) </summary> $newline `$categories` </details> $newline <hr /> $newline"
