@@ -93,24 +93,24 @@
 
 ### 📝 Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Sniffing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sniffing-f47ec6f35469?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Data Packets](https://medium.com/@shelkesays/a-10-year-olds-guide-to-data-packets-2eca4fb2550c?source=rss-ba6e00c00a60------2) </summary> 
+ `cyber-security-awareness, online-safety, kids-and-tech, cybersecurity, data-packet` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Sniffing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sniffing-f47ec6f35469?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, online-safety, cybersecurity, packet-sniffing, cyber-security-awareness` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Brute Force Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-brute-force-attack-47576386048c?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Brute Force Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-brute-force-attack-47576386048c?source=rss-ba6e00c00a60------2) </summary> 
  `brute-force-attack, kids-and-tech, cyber-security-awareness, cybersecurity, online-safety` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Drive by Download Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Drive by Download Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-drive-by-download-attack-c65be9a1ccc0?source=rss-ba6e00c00a60------2) </summary> 
  `drive-by-download, cybersecurity, kids-and-tech, online-safety, cyber-security-awareness` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Man-in-the-Middle Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Man-in-the-Middle Attack](https://medium.com/@shelkesays/a-10-year-olds-guide-to-man-in-the-middle-attack-37f3f64b0dee?source=rss-ba6e00c00a60------2) </summary> 
  `cybersecurity, online-safety, cyber-security-awareness, kids-and-tech, man-in-the-middle-attack` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to DDoS](https://medium.com/@shelkesays/a-10-year-olds-guide-to-ddos-e5fb9e7ef3e8?source=rss-ba6e00c00a60------2) </summary> 
- `online-safety, cybersecurity, kids-and-tech, ddos, cyber-security-awareness` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
