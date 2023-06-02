@@ -95,24 +95,24 @@
 
 ### 📝 Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Clickjacking](https://medium.com/@shelkesays/a-10-year-olds-guide-to-clickjacking-8014be4266e4?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Cryptojacking](https://medium.com/@shelkesays/a-10-year-olds-guide-to-cryptojacking-1c831ae137?source=rss-ba6e00c00a60------2) </summary> 
+ `cybersecurity, online-safety, cyber-security-awareness, cryptojacking, kids-and-tech` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Clickjacking](https://medium.com/@shelkesays/a-10-year-olds-guide-to-clickjacking-8014be4266e4?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, online-safety, clickjacking, cybersecurity, cyber-security-awareness` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Keylogger](https://medium.com/@shelkesays/a-10-year-olds-guide-to-keylogger-e75111b6c792?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Keylogger](https://medium.com/@shelkesays/a-10-year-olds-guide-to-keylogger-e75111b6c792?source=rss-ba6e00c00a60------2) </summary> 
  `online-safety, kids-and-tech, keylogger, cybersecurity, cyber-security-awareness` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Malvertising](https://medium.com/@shelkesays/a-10-year-olds-guide-to-malvertising-4f9c43bb656b?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Malvertising](https://medium.com/@shelkesays/a-10-year-olds-guide-to-malvertising-4f9c43bb656b?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, online-safety, cyber-security-awareness, cybersecurity, malvertising` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Data Packets](https://medium.com/@shelkesays/a-10-year-olds-guide-to-data-packets-2eca4fb2550c?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Data Packets](https://medium.com/@shelkesays/a-10-year-olds-guide-to-data-packets-2eca4fb2550c?source=rss-ba6e00c00a60------2) </summary> 
  `cyber-security-awareness, online-safety, kids-and-tech, cybersecurity, data-packet` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Sniffing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-sniffing-f47ec6f35469?source=rss-ba6e00c00a60------2) </summary> 
- `kids-and-tech, online-safety, cybersecurity, packet-sniffing, cyber-security-awareness` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
