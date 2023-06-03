@@ -2,11 +2,8 @@
 <h3 align="center">Consultant | Architect | Developer | Trainer | Mentor | Angel Investor | Cyber Security Enthusiast</h3>
 
 <p align="center">
-<a href="https://tryhackme.com/p/srahul07" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/srahul07.png" alt="TryHackMe"></a>
 <a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> 
 <a href="https://peerlist.io/rahulshelke" target="blank"><img src="https://github-readme-badge.peerlist.io/api/rahulshelke?style=for-the-badge" alt="shelkesays" /></a> 
- <br/> 
- <a href="https://www.credly.com/badges/bc3ecc28-bbd7-42df-8c33-1b5ac6a3a913/public_url" target="blank"><img src="https://images.credly.com/size/110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png" alt="shelkesays" /></a>
 </p>
 
 <details>
@@ -93,7 +90,14 @@
 -->
 </p>
 <br>
-
+<details>
+<summary><h3 align="left">Badges & Achievements</h3></summary>
+<p align="left"> 
+ <a href="https://tryhackme.com/p/srahul07" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/srahul07.png" alt="TryHackMe"></a>
+<a href="https://www.credly.com/badges/bc3ecc28-bbd7-42df-8c33-1b5ac6a3a913/public_url" target="blank"><img src="https://images.credly.com/size/110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png" alt="shelkesays" /></a>
+</p>
+</details>
+ 
 ### 📝 Latest Blogs
 <!-- MEDIUM:START -->
  #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Cryptojacking](https://medium.com/@shelkesays/a-10-year-olds-guide-to-cryptojacking-1c831ae137?source=rss-ba6e00c00a60------2) </summary> 
