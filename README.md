@@ -100,24 +100,24 @@
  
 ### 📝 Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Threat](https://medium.com/@shelkesays/a-10-year-olds-guide-to-threat-9599d3879c28?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Vulnerability](https://medium.com/@shelkesays/a-10-year-olds-guide-to-vulnerability-aea0d8c52b97?source=rss-ba6e00c00a60------2) </summary> 
+ `cybersecurity, vulnerability, kids-and-tech, cyber-security-awareness, online-safety` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Threat](https://medium.com/@shelkesays/a-10-year-olds-guide-to-threat-9599d3879c28?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, cybersecurity, online-safety, cyber-security-awareness, cyber-threat` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Online Impersonation](https://medium.com/@shelkesays/a-10-year-olds-guide-to-online-impersonation-313c1b2dc960?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Online Impersonation](https://medium.com/@shelkesays/a-10-year-olds-guide-to-online-impersonation-313c1b2dc960?source=rss-ba6e00c00a60------2) </summary> 
  `impersonation, online-safety, cybersecurity, cyber-security-awareness, kids-and-tech` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Doxing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-doxing-d368788d139a?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Doxing](https://medium.com/@shelkesays/a-10-year-olds-guide-to-doxing-d368788d139a?source=rss-ba6e00c00a60------2) </summary> 
  `cyber-security-awareness, kids-and-tech, online-safety, cybersecurity, doxing` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Trolling](https://medium.com/@shelkesays/a-10-year-olds-guide-to-trolling-e849054b3ad?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Trolling](https://medium.com/@shelkesays/a-10-year-olds-guide-to-trolling-e849054b3ad?source=rss-ba6e00c00a60------2) </summary> 
  `cybersecurity, online-safety, kids-and-tech, trolling, cyber-security-awareness` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Cyberstalking](https://medium.com/@shelkesays/a-10-year-olds-guide-to-cyberstalking-f60bb8089a87?source=rss-ba6e00c00a60------2) </summary> 
- `kids-and-tech, cybersecurity, cyber-security-awareness, online-safety, cyber-stalking` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
