@@ -94,7 +94,7 @@
 <summary><h3 align="left">Badges & Achievements</h3></summary>
 <p align="left"> 
  <a href="https://tryhackme.com/p/srahul07" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/srahul07.png" alt="TryHackMe"></a>
-<a href="https://www.credly.com/badges/bc3ecc28-bbd7-42df-8c33-1b5ac6a3a913/public_url" target="blank"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="shelkesays" /></a>
+<a href="https://www.credly.com/badges/bc3ecc28-bbd7-42df-8c33-1b5ac6a3a913/public_url" target="blank"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="shelkesays" style="width: 6%;"/></a>
 </p>
 </details>
  
