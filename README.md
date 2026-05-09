@@ -17,7 +17,7 @@
 
 🧭 Somewhere between architect and engineering leader, depending on how the week is going. I think about coordination cost a lot, line counts almost never, and meetings only when caffeinated.
 
-🦀 Currently: shipping a Python-based connector framework, picking up Rust at a glacier's pace, and falling down rabbit holes about energy-efficient systems programming.
+🦀 Currently: shipping a connector framework in Rust (which I'm still learning), and building Safelint — a linter based on NASA's Power of 10 rules, Python-first but designed to grow into other languages. Still falling down energy-efficient code rabbit holes on the side.
 
 🛡️ Security never really leaves. Happy to ramble about Python, system design, AWS, or automating anything a human should not have to do twice.
 
