@@ -119,7 +119,7 @@
 ### // Stats
 <details>
  <summary> Click here for the ultimate procrastination tool. Your boss will thank you. </summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays&" alt="shelkesays" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays" alt="shelkesays" /></p>
  </details>
 
 <h3 align="left">// Support</h3>
