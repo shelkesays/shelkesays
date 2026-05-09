@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://twitter.com/shelkesays" target="blank"><img src="https://img.shields.io/twitter/follow/shelkesays?logo=twitter&style=for-the-badge" alt="shelkesays" /></a> 
-<a href="https://peerlist.io/rahulshelke" target="blank"><img src="https://github-readme-badge.peerlist.io/api/rahulshelke?style=for-the-badge" alt="shelkesays" /></a> 
+<a href="https://peerlist.io/rahulshelke" target="blank"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a> 
 </p>
 
 <details>
@@ -119,13 +119,7 @@
 ### // Stats
 <details>
  <summary> Click here for the ultimate procrastination tool. Your boss will thank you. </summary>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelkesays&show_icons=true&locale=en&layout=compact" alt="shelkesays" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelkesays&show_icons=true&locale=en" alt="shelkesays" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays&" alt="shelkesays" /></p>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelkesays&" alt="shelkesays" /></p>
  </details>
 
 <h3 align="left">// Support</h3>
