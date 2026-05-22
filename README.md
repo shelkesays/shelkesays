@@ -95,24 +95,24 @@
  
 ### // Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [Generative AI: Opportunity, Disruption, and the Path Forward](https://medium.com/@shelkesays/generative-ai-opportunity-disruption-and-the-path-forward-9d12bf6cd530?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [Why Security Audits Still Depend on Screenshots?](https://medium.com/@shelkesays/why-security-audits-still-depend-on-screenshots-96d864023e62?source=rss-ba6e00c00a60------2) </summary> 
+ `cyber-security-awareness, secuirtyaudit, cybersecurity` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [Generative AI: Opportunity, Disruption, and the Path Forward](https://medium.com/@shelkesays/generative-ai-opportunity-disruption-and-the-path-forward-9d12bf6cd530?source=rss-ba6e00c00a60------2) </summary> 
  `technology, genarative-ai, ai` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [Become a Digital Defender](https://medium.com/@shelkesays/become-a-digital-defender-fa72f7e0fc96?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [Become a Digital Defender](https://medium.com/@shelkesays/become-a-digital-defender-fa72f7e0fc96?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, cyber-security-engineer, online-safety, cyber-security-awareness, cybersecurity` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [A 10-Year-Old’s Guide to Risk](https://medium.com/@shelkesays/a-10-year-olds-guide-to-risk-949f233bb8da?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Risk](https://medium.com/@shelkesays/a-10-year-olds-guide-to-risk-949f233bb8da?source=rss-ba6e00c00a60------2) </summary> 
  `cyber-risk, online-safety, cyber-security-awareness, kids-and-tech, cybersecurity` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [A 10-Year-Old’s Guide to Vulnerability](https://medium.com/@shelkesays/a-10-year-olds-guide-to-vulnerability-aea0d8c52b97?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Vulnerability](https://medium.com/@shelkesays/a-10-year-olds-guide-to-vulnerability-aea0d8c52b97?source=rss-ba6e00c00a60------2) </summary> 
  `cybersecurity, vulnerability, kids-and-tech, cyber-security-awareness, online-safety` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Threat](https://medium.com/@shelkesays/a-10-year-olds-guide-to-threat-9599d3879c28?source=rss-ba6e00c00a60------2) </summary> 
- `kids-and-tech, cybersecurity, online-safety, cyber-security-awareness, cyber-threat` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
