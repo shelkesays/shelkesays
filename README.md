@@ -23,7 +23,7 @@
 
 ✍️ Short thoughts hit [Medium](https://medium.com/@shelkesays). The longer, more deliberate take lives at **[rahulshelke.com](https://rahulshelke.com)** — intentionally boring, rarely updated.
 
-📫 [LinkedIn](https://www.linkedin.com/in/shelkerahul/) is the best place to actually reach me · shelkesays@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/shelkerahul/) is the best place to actually reach me · 674591+shelkesays@users.noreply.github.com
 
 ⚡ Fun fact: still 100% caffeine-fueled. Some things don't scale.
 
