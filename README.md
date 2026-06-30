@@ -95,24 +95,24 @@
  
 ### // Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [I Let AI Write a Feature. Then I Let SafeLint Review It.](https://medium.com/@shelkesays/i-let-ai-write-a-feature-then-i-let-safelint-review-it-5dd84cc9e024?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [The Engineering Paper I Dismissed. Then Spent Years Following Without Realising It.](https://medium.com/@shelkesays/the-engineering-paper-i-dismissed-then-spent-years-following-without-realising-it-3dd35585f1d8?source=rss-ba6e00c00a60------2) </summary> 
+ `code-quality, software-engineering, artificial-intelligence, code-review, programming` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [I Let AI Write a Feature. Then I Let SafeLint Review It.](https://medium.com/@shelkesays/i-let-ai-write-a-feature-then-i-let-safelint-review-it-5dd84cc9e024?source=rss-ba6e00c00a60------2) </summary> 
  `code-review, code-quality, developer-tools, software-engineering, artificial-intelligence` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [Why Security Audits Still Depend on Screenshots?](https://medium.com/@shelkesays/why-security-audits-still-depend-on-screenshots-96d864023e62?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [Why Security Audits Still Depend on Screenshots?](https://medium.com/@shelkesays/why-security-audits-still-depend-on-screenshots-96d864023e62?source=rss-ba6e00c00a60------2) </summary> 
  `cyber-security-awareness, secuirtyaudit, cybersecurity` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [Generative AI: Opportunity, Disruption, and the Path Forward](https://medium.com/@shelkesays/generative-ai-opportunity-disruption-and-the-path-forward-9d12bf6cd530?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [Generative AI: Opportunity, Disruption, and the Path Forward](https://medium.com/@shelkesays/generative-ai-opportunity-disruption-and-the-path-forward-9d12bf6cd530?source=rss-ba6e00c00a60------2) </summary> 
  `technology, genarative-ai, ai` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [Become a Digital Defender](https://medium.com/@shelkesays/become-a-digital-defender-fa72f7e0fc96?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [Become a Digital Defender](https://medium.com/@shelkesays/become-a-digital-defender-fa72f7e0fc96?source=rss-ba6e00c00a60------2) </summary> 
  `kids-and-tech, cyber-security-engineer, online-safety, cyber-security-awareness, cybersecurity` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [A 10-Year-Old’s Guide to Risk](https://medium.com/@shelkesays/a-10-year-olds-guide-to-risk-949f233bb8da?source=rss-ba6e00c00a60------2) </summary> 
- `cyber-risk, online-safety, cyber-security-awareness, kids-and-tech, cybersecurity` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
