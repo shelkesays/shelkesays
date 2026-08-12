@@ -95,24 +95,24 @@
  
 ### // Latest Blogs
 <!-- MEDIUM:START -->
- #### <details> <summary> 🔐 [Every Static Analysis Tool Starts With a Question. Mine Just Happened to Be Different.](https://medium.com/@shelkesays/every-static-analysis-tool-starts-with-a-question-mine-just-happened-to-be-different-f70102b8329e?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [I Asked Claude to Check a Security Alert. It Went Much Further Than I Expected.](https://medium.com/@shelkesays/i-asked-claude-to-check-a-security-alert-it-went-much-further-than-i-expected-2a39fc1265fb?source=rss-ba6e00c00a60------2) </summary> 
+ `cybersecurity, information-security, artificial-intelligence, ai-agent, ai-security` </details> 
+ <hr /> 
+
+ #### <details> <summary> 🛡️ [Every Static Analysis Tool Starts With a Question. Mine Just Happened to Be Different.](https://medium.com/@shelkesays/every-static-analysis-tool-starts-with-a-question-mine-just-happened-to-be-different-f70102b8329e?source=rss-ba6e00c00a60------2) </summary> 
  `software-engineering, artificial-intelligence, code-review, programming, code-quality` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [The Engineering Paper I Dismissed. Then Spent Years Following Without Realising It.](https://medium.com/@shelkesays/the-engineering-paper-i-dismissed-then-spent-years-following-without-realising-it-3dd35585f1d8?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔐 [The Engineering Paper I Dismissed. Then Spent Years Following Without Realising It.](https://medium.com/@shelkesays/the-engineering-paper-i-dismissed-then-spent-years-following-without-realising-it-3dd35585f1d8?source=rss-ba6e00c00a60------2) </summary> 
  `code-quality, software-engineering, artificial-intelligence, code-review, programming` </details> 
  <hr /> 
 
- #### <details> <summary> 🔐 [I Let AI Write a Feature. Then I Let SafeLint Review It.](https://medium.com/@shelkesays/i-let-ai-write-a-feature-then-i-let-safelint-review-it-5dd84cc9e024?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🛡️ [I Let AI Write a Feature. Then I Let SafeLint Review It.](https://medium.com/@shelkesays/i-let-ai-write-a-feature-then-i-let-safelint-review-it-5dd84cc9e024?source=rss-ba6e00c00a60------2) </summary> 
  `code-review, code-quality, developer-tools, software-engineering, artificial-intelligence` </details> 
  <hr /> 
 
- #### <details> <summary> 🛡️ [Why Security Audits Still Depend on Screenshots?](https://medium.com/@shelkesays/why-security-audits-still-depend-on-screenshots-96d864023e62?source=rss-ba6e00c00a60------2) </summary> 
+ #### <details> <summary> 🔥 [Why Security Audits Still Depend on Screenshots?](https://medium.com/@shelkesays/why-security-audits-still-depend-on-screenshots-96d864023e62?source=rss-ba6e00c00a60------2) </summary> 
  `cyber-security-awareness, secuirtyaudit, cybersecurity` </details> 
- <hr /> 
-
- #### <details> <summary> 🔥 [Generative AI: Opportunity, Disruption, and the Path Forward](https://medium.com/@shelkesays/generative-ai-opportunity-disruption-and-the-path-forward-9d12bf6cd530?source=rss-ba6e00c00a60------2) </summary> 
- `technology, genarative-ai, ai` </details> 
  <hr /> 
 <!-- MEDIUM:END -->
 
